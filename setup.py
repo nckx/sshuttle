@@ -38,14 +38,14 @@ setup(
     author_email='brian@linuxpenguins.xyz',
     description='Full-featured" VPN over an SSH tunnel',
     packages=find_packages(),
-    license="GPL2+",
+    license="LGPL2+",
     long_description=open('README.rst').read(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
         "Intended Audience :: End Users/Desktop",
         "License :: OSI Approved :: "
-            "GNU General Public License v2 or later (GPLv2+)",
+            "GNU Lesser General Public License v2 or later (LGPLv2+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3.5",
